@@ -1,4 +1,4 @@
-# Zorvyn Finance Dashboard - Backend
+
 
 A robust, logically structured REST backend built for a finance dashboard ecosystem. It supports role-based access control (RBAC), multi-layered user verification, custom dashboard aggregations, rate-limiting, and deep data manipulation workflows.
 
