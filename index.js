@@ -60,8 +60,7 @@ app.use((err, req, res, next) => {
 
 const PORT = process.env.PORT || 5005;
 
-const PORTO = 5505 ;
-const pra = tik ;
+
 
 app.listen(PORT, () => {
   console.log(`Server running in ${process.env.NODE_ENV} mode on port ${PORT}`);
