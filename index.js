@@ -49,6 +49,7 @@ app.get('/', (req, res) => {
   res.send('Finance Dashboard API is running...');
 });
 
+console.log("hello i am pratik ")
 app.use((err, req, res, next) => {
   const statusCode = res.statusCode ? res.statusCode : 500;
   res.status(statusCode);
